@@ -35,7 +35,7 @@ class FlightList extends React.Component {
           ))
         }
 
-        <h1>Hello simple React webpack boilerplate</h1>
+        <h1>Meal Selector</h1>
         <button
           onClick={() => {
             this.setState(({clicks}) => {

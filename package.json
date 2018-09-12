@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-webpack-boilerplate",
+  "name": "meal selector",
   "version": "0.0.1",
   "scripts": {
     "start": "webpack-dev-server --mode development"
