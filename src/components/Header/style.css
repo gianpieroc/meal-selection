@@ -1,0 +1,16 @@
+.container {
+  background-color:#0A2239;
+  height: 100px;
+  font-family: Helvetica;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.header-text {
+  color: white;
+  margin-left: 30px;
+  font-weight: 300;
+  margin-right: 30px;
+}
